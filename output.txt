@@ -1,0 +1,23 @@
+##Console
+    hi 
+    second??
+    syn part 
+    third??
+    ones Promise
+    2
+    one
+    onClick
+    SetTimeoutNew
+    TimeOut
+##Web Api
+    onClick();
+    SetTimeout 1000 
+    SetTimeoutNew 0
+##Queue 
+    ##Micro task
+            secondFunction
+            IsFunction
+    ##task
+        SetTimeout
+
+
