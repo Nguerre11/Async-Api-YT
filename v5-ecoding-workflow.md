@@ -133,23 +133,14 @@ for (in) and for (of )
     practice immediately code 
 
 ##Workflow zettelkasten recall 📑
-    ###Functions
-        function declaration
-        bunch of code will be executed 
-        invoke the function
-    ###Conditions if
-        Conditions declaration
-        value false or true 
-        bear bloq code if its true 
-    ##Loops for 
-    for (initialization; condition; iteration) { code to be executed
-    for (variable of iterable of Arrays) {// code to be executed
-    ##Arrays recorridos (complex)
-        are methods used for filter, they dont modifique the main arrays
-        var.complexArray= mainArray(function);   
+   - TailWind CSS
 
 
 ##Workflow Project-Async-Start  
     1.Repository 
     2.Copy html (css included from framework)
-    3.
+    3.RapidAPI sign in 
+    4. callback Id to pass info though fetch 
+    .Api Consumed 
+    5. pass to code retrieved for turn out 
+    async-await 
